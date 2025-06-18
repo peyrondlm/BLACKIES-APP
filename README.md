@@ -1,6 +1,5 @@
 # BLACKIES-APP
 
-**Descripción corta:**
 Aplicación hecha en SwiftUI en formato "iceberg" que muestra distintos niveles de contenido (historias, curiosidades, datos) sobre la Universidad La Salle y la carrera de Ingeniería en Software.
 
 ---
@@ -61,4 +60,4 @@ Blackies App es una aplicación desarrollada en SwiftUI que representa el concep
 
 ## Video demostrativo
 
-[https://youtu.be/urlvideocuandolohagaxd]
+[https://youtu.be/lm6fphTFp2s]
