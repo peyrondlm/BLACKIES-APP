@@ -1,0 +1,553 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		DD3B976C2DFCC7DB0033EB0B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DD3B97552DFCC7DA0033EB0B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DD3B975C2DFCC7DA0033EB0B;
+			remoteInfo = NegroidesMomosProject;
+		};
+		DD3B97762DFCC7DB0033EB0B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DD3B97552DFCC7DA0033EB0B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DD3B975C2DFCC7DA0033EB0B;
+			remoteInfo = NegroidesMomosProject;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DD3B975D2DFCC7DA0033EB0B /* NegroidesMomosProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NegroidesMomosProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD3B976B2DFCC7DB0033EB0B /* NegroidesMomosProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NegroidesMomosProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD3B97752DFCC7DB0033EB0B /* NegroidesMomosProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NegroidesMomosProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DD3B975F2DFCC7DA0033EB0B /* NegroidesMomosProject */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = NegroidesMomosProject;
+			sourceTree = "<group>";
+		};
+		DD3B976E2DFCC7DB0033EB0B /* NegroidesMomosProjectTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = NegroidesMomosProjectTests;
+			sourceTree = "<group>";
+		};
+		DD3B97782DFCC7DB0033EB0B /* NegroidesMomosProjectUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = NegroidesMomosProjectUITests;
+			sourceTree = "<group>";
+		};
+		DD3B979E2DFCC8150033EB0B /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DD3B975A2DFCC7DA0033EB0B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD3B97682DFCC7DB0033EB0B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD3B97722DFCC7DB0033EB0B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DD3B97542DFCC7DA0033EB0B = {
+			isa = PBXGroup;
+			children = (
+				DD3B975F2DFCC7DA0033EB0B /* NegroidesMomosProject */,
+				DD3B976E2DFCC7DB0033EB0B /* NegroidesMomosProjectTests */,
+				DD3B97782DFCC7DB0033EB0B /* NegroidesMomosProjectUITests */,
+				DD3B975E2DFCC7DA0033EB0B /* Products */,
+				DD3B979E2DFCC8150033EB0B /* Models */,
+			);
+			sourceTree = "<group>";
+		};
+		DD3B975E2DFCC7DA0033EB0B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DD3B975D2DFCC7DA0033EB0B /* NegroidesMomosProject.app */,
+				DD3B976B2DFCC7DB0033EB0B /* NegroidesMomosProjectTests.xctest */,
+				DD3B97752DFCC7DB0033EB0B /* NegroidesMomosProjectUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DD3B975C2DFCC7DA0033EB0B /* NegroidesMomosProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD3B977F2DFCC7DB0033EB0B /* Build configuration list for PBXNativeTarget "NegroidesMomosProject" */;
+			buildPhases = (
+				DD3B97592DFCC7DA0033EB0B /* Sources */,
+				DD3B975A2DFCC7DA0033EB0B /* Frameworks */,
+				DD3B975B2DFCC7DA0033EB0B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DD3B975F2DFCC7DA0033EB0B /* NegroidesMomosProject */,
+				DD3B979E2DFCC8150033EB0B /* Models */,
+			);
+			name = NegroidesMomosProject;
+			packageProductDependencies = (
+			);
+			productName = NegroidesMomosProject;
+			productReference = DD3B975D2DFCC7DA0033EB0B /* NegroidesMomosProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DD3B976A2DFCC7DB0033EB0B /* NegroidesMomosProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD3B97822DFCC7DB0033EB0B /* Build configuration list for PBXNativeTarget "NegroidesMomosProjectTests" */;
+			buildPhases = (
+				DD3B97672DFCC7DB0033EB0B /* Sources */,
+				DD3B97682DFCC7DB0033EB0B /* Frameworks */,
+				DD3B97692DFCC7DB0033EB0B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DD3B976D2DFCC7DB0033EB0B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DD3B976E2DFCC7DB0033EB0B /* NegroidesMomosProjectTests */,
+			);
+			name = NegroidesMomosProjectTests;
+			packageProductDependencies = (
+			);
+			productName = NegroidesMomosProjectTests;
+			productReference = DD3B976B2DFCC7DB0033EB0B /* NegroidesMomosProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DD3B97742DFCC7DB0033EB0B /* NegroidesMomosProjectUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD3B97852DFCC7DB0033EB0B /* Build configuration list for PBXNativeTarget "NegroidesMomosProjectUITests" */;
+			buildPhases = (
+				DD3B97712DFCC7DB0033EB0B /* Sources */,
+				DD3B97722DFCC7DB0033EB0B /* Frameworks */,
+				DD3B97732DFCC7DB0033EB0B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DD3B97772DFCC7DB0033EB0B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DD3B97782DFCC7DB0033EB0B /* NegroidesMomosProjectUITests */,
+			);
+			name = NegroidesMomosProjectUITests;
+			packageProductDependencies = (
+			);
+			productName = NegroidesMomosProjectUITests;
+			productReference = DD3B97752DFCC7DB0033EB0B /* NegroidesMomosProjectUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DD3B97552DFCC7DA0033EB0B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					DD3B975C2DFCC7DA0033EB0B = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					DD3B976A2DFCC7DB0033EB0B = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = DD3B975C2DFCC7DA0033EB0B;
+					};
+					DD3B97742DFCC7DB0033EB0B = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = DD3B975C2DFCC7DA0033EB0B;
+					};
+				};
+			};
+			buildConfigurationList = DD3B97582DFCC7DA0033EB0B /* Build configuration list for PBXProject "NegroidesMomosProject" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DD3B97542DFCC7DA0033EB0B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DD3B975E2DFCC7DA0033EB0B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DD3B975C2DFCC7DA0033EB0B /* NegroidesMomosProject */,
+				DD3B976A2DFCC7DB0033EB0B /* NegroidesMomosProjectTests */,
+				DD3B97742DFCC7DB0033EB0B /* NegroidesMomosProjectUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DD3B975B2DFCC7DA0033EB0B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD3B97692DFCC7DB0033EB0B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD3B97732DFCC7DB0033EB0B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DD3B97592DFCC7DA0033EB0B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD3B97672DFCC7DB0033EB0B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD3B97712DFCC7DB0033EB0B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DD3B976D2DFCC7DB0033EB0B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DD3B975C2DFCC7DA0033EB0B /* NegroidesMomosProject */;
+			targetProxy = DD3B976C2DFCC7DB0033EB0B /* PBXContainerItemProxy */;
+		};
+		DD3B97772DFCC7DB0033EB0B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DD3B975C2DFCC7DA0033EB0B /* NegroidesMomosProject */;
+			targetProxy = DD3B97762DFCC7DB0033EB0B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DD3B977D2DFCC7DB0033EB0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DD3B977E2DFCC7DB0033EB0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		DD3B97802DFCC7DB0033EB0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = NegroidesMomosProject/NegroidesMomosProject.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = yo.NegroidesMomosProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		DD3B97812DFCC7DB0033EB0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = NegroidesMomosProject/NegroidesMomosProject.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = yo.NegroidesMomosProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		DD3B97832DFCC7DB0033EB0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = yo.NegroidesMomosProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NegroidesMomosProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NegroidesMomosProject";
+			};
+			name = Debug;
+		};
+		DD3B97842DFCC7DB0033EB0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = yo.NegroidesMomosProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NegroidesMomosProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NegroidesMomosProject";
+			};
+			name = Release;
+		};
+		DD3B97862DFCC7DB0033EB0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = yo.NegroidesMomosProjectUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = NegroidesMomosProject;
+			};
+			name = Debug;
+		};
+		DD3B97872DFCC7DB0033EB0B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = yo.NegroidesMomosProjectUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = NegroidesMomosProject;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD3B97582DFCC7DA0033EB0B /* Build configuration list for PBXProject "NegroidesMomosProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3B977D2DFCC7DB0033EB0B /* Debug */,
+				DD3B977E2DFCC7DB0033EB0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD3B977F2DFCC7DB0033EB0B /* Build configuration list for PBXNativeTarget "NegroidesMomosProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3B97802DFCC7DB0033EB0B /* Debug */,
+				DD3B97812DFCC7DB0033EB0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD3B97822DFCC7DB0033EB0B /* Build configuration list for PBXNativeTarget "NegroidesMomosProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3B97832DFCC7DB0033EB0B /* Debug */,
+				DD3B97842DFCC7DB0033EB0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD3B97852DFCC7DB0033EB0B /* Build configuration list for PBXNativeTarget "NegroidesMomosProjectUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD3B97862DFCC7DB0033EB0B /* Debug */,
+				DD3B97872DFCC7DB0033EB0B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD3B97552DFCC7DA0033EB0B /* Project object */;
+}
